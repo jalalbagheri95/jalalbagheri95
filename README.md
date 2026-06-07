@@ -63,7 +63,7 @@ Most projects in this space are born out of personal needs or just for fun. Who 
 ### 📬 Let's Connect
 
 <p align="left">
-  <a href="mailto:jalalbagheri@gmail.com">
+  <a href="mailto:jalalbagheri95@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://t.me/jalalbagheri95">
